@@ -3,6 +3,9 @@
 # Linux installation
 # curl -fsSL https://ollama.com/install.sh | sh
 
+# Windows or Mac
+# https://ollama.com/download
+
 # Verify
 # ollama -v
 
