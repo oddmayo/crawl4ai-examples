@@ -5,6 +5,7 @@ import os
 import asyncio
 import json
 from pydantic import BaseModel, Field
+from typing import Any, List, Optional
 from crawl4ai import (
     AsyncWebCrawler, BrowserConfig, CrawlerRunConfig, CacheMode, 
     LLMConfig, LLMExtractionStrategy
