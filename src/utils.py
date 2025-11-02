@@ -1,9 +1,6 @@
-# dependencies import
+# imports
 
-import nest_asyncio
-import os
-import asyncio
-import json
+import nest_asyncio, os, asyncio, json
 from pydantic import BaseModel, Field
 from typing import Any, List, Optional
 from crawl4ai import (
